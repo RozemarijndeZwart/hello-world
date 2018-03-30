@@ -1,2 +1,5 @@
 # hello-world
-A respository as exercise to get to know Github
+A respository to get to know Github
+
+
+Just a little test
